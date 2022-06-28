@@ -9,7 +9,7 @@ int main()
     printf("\nminutes: ");
     scanf("%f",&n2);
     x = ttm(n1, n2);
-    printf("\nYour time (minutes) = %f\n",x);
+    printf("\nYour time (hours) = %f\n",x);
     return 0;
 }
 
